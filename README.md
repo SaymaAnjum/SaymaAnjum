@@ -21,6 +21,3 @@ I am a Biochemistry and Biotechnology graduate with a growing interest in Bioinf
 - Transcriptomics
 - Biological Data Analysis
 
-## 🎯 Career Goal
-
-To contribute to impactful research in Bioinformatics, Computational Biology, and Genomics through continuous learning and hands-on projects.
