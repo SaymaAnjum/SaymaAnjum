@@ -16,8 +16,6 @@ I am a Biochemistry and Biotechnology graduate with a growing interest in Bioinf
 ## 🔬 Research Interests
 
 - Bioinformatics
-- Computational Biology
 - Genomics
-- Transcriptomics
 - Biological Data Analysis
 
